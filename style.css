@@ -1,0 +1,33 @@
+.SMdisplay{
+	width: 500px;
+	height: 300px;
+	border-width: 1px;
+	border-style: solid;
+}
+
+#shrinkContent{
+	width: 100px;
+	height: auto;
+	border-width: 1px;
+	border-style: solid;
+}
+
+.innerDisplay{
+	margin-left: 30px;
+}
+
+#bottomDiv{
+	position: absolute;
+	top: 250px;
+	width: 500px;
+	height: 50px;
+}
+
+.bottomDisplay{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+#inputText {
+	max-width: 200px;
+}
